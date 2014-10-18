@@ -1,0 +1,11 @@
+ui资源统一放在此文件夹（/ui）下
+ui文件均以小写命名
+	login.ui	->		Ui_login.py
+
+使用UIConvert.bat配合uic_all_ui.py脚本将ui文件转化为python源文件
+
+窗口逻辑具体由 Eric4的“生成对话框代码”工具 实现
+	Ui_login.py		->		E_Ui_login.py
+
+每次重新编辑ui文件需要生成具体实现文件（E_Ui_login.py）前，需要将实现文件备份到history
+history内文件夹命名方式：20141017_00、20141017_01

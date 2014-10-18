@@ -1,0 +1,4 @@
+/util
+/bin*
+/user_list
+*.pyc

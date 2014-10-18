@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>media/logo.png</file>
+  </qresource>
+  <qresource prefix="switch">
+    <file>media/auto_.png</file>
+    <file>media/manul_.png</file>
+  </qresource>
+</RCC>
